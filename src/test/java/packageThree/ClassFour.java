@@ -7,12 +7,12 @@ public class ClassFour {
 	@Test
 	public void MethodSeven()
 	{
-		System.out.println("This is method one");
+		System.out.println("This is method seven");
 	}
 	
 	public void MethodEight()
 	{
-		System.out.println("This is method two");
+		System.out.println("This is method eight");
 	}
 
 }
